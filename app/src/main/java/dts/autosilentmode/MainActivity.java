@@ -1,6 +1,6 @@
 package dts.autosilentmode;
 
-//This is a test application
+//Work in progress
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
